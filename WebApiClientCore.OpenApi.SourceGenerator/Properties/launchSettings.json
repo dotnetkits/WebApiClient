@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "WebApiClient.Tools.Swagger": {
+      "commandName": "Project"
+    }
+  }
+}
